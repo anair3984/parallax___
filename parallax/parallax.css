@@ -1,0 +1,53 @@
+@charset "UTF-8";
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    background-color: #c2a788;
+    font-size: 24px;
+    padding: 25px;
+    opacity: .9;	
+}
+header{
+   text-align: center;
+   font-family: ccmeanwhile, sans-serif;
+   font-weight: 400;
+   font-size: 76pt;
+}
+.parallax{
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    background-image: url(history.jpg);    
+}
+.parallax_two {
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    background-image: url(food.jpg);       
+}
+.parallax_three {
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    background-image: url(culture.jpg);
+}
+
+body{
+    background-color: #FAE5BD;
+    
+}
+
+p{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: large;
+}
+
+
+
+h3 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+h1 {
+	
+}
